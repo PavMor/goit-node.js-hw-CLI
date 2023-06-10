@@ -1,9 +1,9 @@
-const { 
-    contactsPath, 
-    listContacts, 
-    getContactById, 
-    removeContact, 
-    addContact
+const {
+    contactsPath,
+    listContacts,
+    getContactById,
+    removeContact,
+    addContact,
 } = require("./contacts");
 
 const { Command } = require("commander");

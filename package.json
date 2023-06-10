@@ -1,13 +1,19 @@
 {
-  "name": "goit-node.js-hw-cli",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
     "dev": "nodemon index"
   },
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
+  },
+  "name": "goit-node.js-hw-cli",
+  "description": "## Крок 1",
+  "version": "1.0.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PavMor/goit-node.js-hw-CLI.git"
@@ -18,15 +24,5 @@
   "bugs": {
     "url": "https://github.com/PavMor/goit-node.js-hw-CLI/issues"
   },
-  "homepage": "https://github.com/PavMor/goit-node.js-hw-CLI#readme",
-  "dependencies": {
-    "commander": "^10.0.1",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "nanoid": "^4.0.2",
-    "yargs": "^17.7.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
-  }
+  "homepage": "https://github.com/PavMor/goit-node.js-hw-CLI#readme"
 }
