@@ -1,3 +1,12 @@
+# Здача домашнього завдання.
+#Скріншоти виконання команд:
+
+https://monosnap.com/file/jzfAPXuQkXoyRMmzu81iqyR84PRtHI
+https://monosnap.com/file/MmEduzOVdjFUaX7iWrVjFUARetMwRf
+https://monosnap.com/file/4JbYx9C8oSSYBL76LFOd7iIqvYbQJa
+https://monosnap.com/file/Qs2KdwCXsBgp2cKU091sY6HuOLc3Ao
+
+# ОПИС ДОМАШНЬОГО ЗАВДАННЯ
 # goit-node.js-hw-CLI | Основи Node.js
 
 ## Крок 1
